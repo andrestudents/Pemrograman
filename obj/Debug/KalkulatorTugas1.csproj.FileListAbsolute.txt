@@ -1,0 +1,8 @@
+D:\2. Semester\Pemrograman C#\Coding\KalkulatorTugas1\bin\Debug\KalkulatorTugas1.exe.config
+D:\2. Semester\Pemrograman C#\Coding\KalkulatorTugas1\bin\Debug\KalkulatorTugas1.exe
+D:\2. Semester\Pemrograman C#\Coding\KalkulatorTugas1\bin\Debug\KalkulatorTugas1.pdb
+D:\2. Semester\Pemrograman C#\Coding\KalkulatorTugas1\obj\Debug\KalkulatorTugas1.csproj.AssemblyReference.cache
+D:\2. Semester\Pemrograman C#\Coding\KalkulatorTugas1\obj\Debug\KalkulatorTugas1.csproj.SuggestedBindingRedirects.cache
+D:\2. Semester\Pemrograman C#\Coding\KalkulatorTugas1\obj\Debug\KalkulatorTugas1.csproj.CoreCompileInputs.cache
+D:\2. Semester\Pemrograman C#\Coding\KalkulatorTugas1\obj\Debug\KalkulatorTugas1.exe
+D:\2. Semester\Pemrograman C#\Coding\KalkulatorTugas1\obj\Debug\KalkulatorTugas1.pdb
